@@ -1,0 +1,27 @@
+{
+  "name": "ugaddress",
+  "version": "1.0.0",
+  "description": "Get all regions and districts in Uganda",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup:regions": "node ./scripts/setupRegions.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-ug/ugaddress.git"
+  },
+  "keywords": [
+    "uganda"
+  ],
+  "author": "Beingana Jim Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-ug/ugaddress/issues"
+  },
+  "homepage": "https://github.com/open-ug/ugaddress#readme",
+  "devDependencies": {
+    "chalk": "^5.2.0"
+  }
+}
