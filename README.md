@@ -4,7 +4,7 @@
 
 ## Installation
 
-You can install `ugaddress` via npm. I can run in any environment and has no dependency.
+You can install `ugaddress` via npm. It can run in any environment and has no dependency.
 
 ```shell
 npm install ugaddress
@@ -23,7 +23,7 @@ This function collects districts for a specific region. It accepts specifically 
 - `"Western"`
 - `"Central"`
 
-This function returns and array of districts forexample:
+This function returns and array of districts For example:
 
 ```js
 [
