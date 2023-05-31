@@ -80,3 +80,5 @@ const setupRegions = async () => {
 }
 
 setupRegions()
+
+export default setupRegions;
