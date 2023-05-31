@@ -1,0 +1,11 @@
+node_modules
+
+yarn-error.log
+./build
+output
+scripts
+data
+.vscode
+.github
+yarn.lock
+.npmignore
