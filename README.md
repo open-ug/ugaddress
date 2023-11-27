@@ -4,7 +4,7 @@
 
 ## Installation
 
-You can install `ugaddress` via npm. It can run in any environment and has no dependency.
+You can install `ugaddress` via npm. It can run in any environment and has no dependency
 
 ```shell
 npm install ugaddress
